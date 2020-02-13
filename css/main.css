@@ -1,0 +1,67 @@
+* {
+    font-family: Helvetica;
+  }
+  
+  body {
+      background-color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+  }
+  
+  h1 {
+      background-color: white;
+      height: 30px;
+      width: 265px;
+      border-color: cornflowerblue;
+      border-width: 2px;
+      border-style: solid;
+      color: cornflowerblue;
+      font-size: 16px;
+      height: 30px;
+      width: 350px;
+      text-align: center;
+      line-height: 30px;
+  }
+  
+  table {
+      width: 350px;
+  }
+  
+  .skills {
+      color: cornflowerblue;
+      text-align: left;
+      line-height: 30px;
+      width: 370px;
+  }
+  
+  .remove {
+      background-color:cornflowerblue;
+      color: white;
+      height: 30px;
+      width: 30px;
+      line-height: 30px;
+      font-weight: bold;
+  }
+  
+  section {
+      width: 350px;
+  }
+  
+  input {
+      height: 30px;
+      width: 265px;
+      border-color: cornflowerblue;
+      border-width: 2px;
+      border-style: solid;
+      font-weight: bold;
+  }
+  
+  #addSkill {
+      background-color: cornflowerblue;
+      color: white;
+      height: 35px;
+      border-color: cornflowerblue;
+      border-width: 2px;
+  }
